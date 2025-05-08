@@ -3,7 +3,7 @@ A simple C++ console-based Tic-Tac-Toe game. Play against an AI that makes rando
 How to Run
 
 Clone the repo:
-git clone https://github.com/tanmayanand08/Tic-Tac-Toe-Project.git
+git clone https://github.com/tanmayanand08/Tic-Tac-Toe-Project
 
 
 Compile:g++ -o tictactoe Tic-Tac-Toe.cpp
